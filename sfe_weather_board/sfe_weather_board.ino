@@ -1,7 +1,3 @@
-// firmware version
-const char version_major = 1;
-const char version_minor = 2;
-
 // external libraries
 #include <SHT1x.h> // SHT15 humidity sensor library
 #include <SFE_BMP085.h> // BMP085 pressure sensor library
