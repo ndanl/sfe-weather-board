@@ -1,4 +1,4 @@
-sfe-weather-boad
+sfe-weather-board
 ================
 
 // sparkfun usb weather board sketch
