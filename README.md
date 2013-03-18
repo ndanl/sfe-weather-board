@@ -3,7 +3,7 @@ sfe-weather-boad
 
 // sparkfun usb weather board sketch
 
-// License:
+// License: 
 // This code is free to use, change, improve, even sell! 
 
 // Credit to Sparkfun for the original code
